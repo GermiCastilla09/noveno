@@ -4,6 +4,11 @@ body {
 .text {
   color: rgb(150,150,255);
 }
+#imagen {
+  position: relative;
+  witdth: 25%;
+  top: 25%;
+}
 #introduccion {
   width: 100%;
   left: 1%;
