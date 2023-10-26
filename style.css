@@ -11,5 +11,11 @@ body {
   position: absolute;
 }
 #Multimedia {
-  top: 1%;
+  top: 10%;
+  position: absolute;
+}
+#video {
+ position: relative;
+ top: 1%;
+ left: 50%;
 }
