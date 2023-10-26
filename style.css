@@ -1,6 +1,9 @@
 body {
   background-color : black;  
 }
+.info {
+  position: relative;
+}
 .text {
   color: rgb(150,150,255);
 }
@@ -13,11 +16,11 @@ body {
   width: 100%;
   left: 1%;
   top: 1%;
-  position: absolute;
+  position: relative;
 }
 #Multimedia {
   top: 25%;
-  position: absolute;
+  position: relative;
 }
 #video {
  position: relative;
