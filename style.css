@@ -4,7 +4,7 @@ body {
 .text {
   color: rgb(100,100,255);
 }
-#introduccion+titulo {
+#introduccion {
   width: 100%;
   left: 1%;
   position: absolute;
