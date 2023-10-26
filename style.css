@@ -11,7 +11,7 @@ body {
   position: absolute;
 }
 #Multimedia {
-  top: 10%;
+  top: 25%;
   position: absolute;
 }
 #video {
@@ -20,5 +20,6 @@ body {
  left: 50%;
 }
 #cancion {
+  position: relative;
   top:50%;
 }
