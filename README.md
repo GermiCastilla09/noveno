@@ -1,4 +1,4 @@
 HOLAAAAA somos de noveno uno del libb
-german, santino y thiago haciendo
-esta pagina web god
-VIVA EL COMUNISMO Y LA BACHATA
+Germán, Santino y Thiago haciendo
+esta pagina web.
+
