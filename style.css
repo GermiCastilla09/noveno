@@ -1,9 +1,12 @@
 body{
   background-color : black;
-.text {
+}
+  .text {
   color: rgb(20,20,255);
-  font-family: elephant
+  font-family: elephant;
+}
 aside{
   background-color : gray;
   color: green;
-  font-family: times new roman
+  font-family: times new roman;
+}
